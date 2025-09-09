@@ -8,5 +8,5 @@ let undefined;
 console.log("String:", string);
 console.log("Number:", number);
 console.log("Boolean:", boolean);
-console.log("Null:", null);
+console.log("Null:", myNull);
 console.log("Undefined:", undefined);
