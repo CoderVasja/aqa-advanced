@@ -1,6 +1,6 @@
-const mixArray = (firstArray, SecondArray) =>{
-    let mixedArray = []
-    return mixedArray = [...firstArray, ...SecondArray];
-}
-
-console.log(mixArray([1,2],[3,4]))
+const mixArray = (firstArray, secondArray) => {
+    return [...firstArray, ...secondArray];
+  };
+  
+  console.log(mixArray([1, 2], [3, 4]));
+  
